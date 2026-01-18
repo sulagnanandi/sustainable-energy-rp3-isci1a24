@@ -1,0 +1,1 @@
+Research Project #4 in the Honours Integrated Science program at McMaster University. Topic is Sustainable Energy in Challenging Environments. RP4-Report.pdf contains the main write-up. Other files are technology briefs explaining fermentation and nuclear fission as sustainable energy sources and Python/Jupyter Notebook files for data analysis work.
